@@ -21,8 +21,8 @@ body{
     font-family: sans-serif;
     
 }
-.navbar{
-    width: 86%;
+. .navbar
+width: 86%;
     display: flex;
     margin: auto;
     padding: 15px 0;
@@ -36,7 +36,8 @@ body{
     margin-left: -2%;
    }
    ul{
-    margin-top: -4px;
+    margin-top: -4;
+   px;
    }
    ul li{
     list-style: none;
