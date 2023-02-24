@@ -21,7 +21,7 @@ body{
     font-family: sans-serif;
     
 }
-. .navbar
+ .navbar{
 width: 86%;
     display: flex;
     margin: auto;
